@@ -1,4 +1,5 @@
-/*led display pin : disp : 0=A,1=B
+/*This particular program is designed for the iNTELLIFT,which use atmega8515 microcintroller with arduino config. 
+  led display pin : disp : 0=A,1=B
   call out up : cloup, call out down : clodn
   call in : clin
   pins for out : clodn3: 2     cloup2: 3
